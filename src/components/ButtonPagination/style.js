@@ -13,7 +13,7 @@ export const Button = styled.button`
 `;
 
 export const Text = styled.p`
-    font-size: 2rem;
+    font-size: 100%;
     font-weight: bolder;
     color: black;
 `;

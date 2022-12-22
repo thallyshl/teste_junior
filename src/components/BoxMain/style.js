@@ -21,7 +21,7 @@ export const Card = styled.div`
 `;
 
 export const CardText = styled.p`
-    font-size: 2rem;
+    font-size: 100%;
     font-weight: bolder;
     color: red;
 `;
