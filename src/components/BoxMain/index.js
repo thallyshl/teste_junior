@@ -23,7 +23,7 @@ export default () => {
                         <CardText>{index + 1}. {item.name.toUpperCase()}</CardText>
                     </Card>
                 );
-            })};
+            })}
         </Container>
     );
 };
